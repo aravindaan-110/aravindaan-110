@@ -2,7 +2,7 @@
 <h3 align="center">A computer geek with a keen sense for detail</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [NATOURS Application](https://github.com/aravindaan-110/natour)
+- 🔭 I’m currently working on [NATOURS Application](https://github.com/aravindaan-110/natours)
 
 - 🌱 I’m currently learning **App Development, Spring Framework**
 
