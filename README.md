@@ -2,7 +2,7 @@
 <h3 align="center">A computer geek with a keen sense for detail</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/aravindaan-110/Tec-v2)
+- 🔭 I’m currently working on [NATOURS Application](https://github.com/aravindaan-110/natour)
 
 - 🌱 I’m currently learning **App Development, Spring Framework**
 
@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/aravindaan-110)
 
-- 💬 Ask me about **App Dev, Javascript, Java**
+- 💬 Ask me about **App Dev, Node Js, Java**
 
 - 📫 How to reach me **s.aravindaan@gmail.com**
 
-- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1VoI2c7B2xOPsvdjlSPOgRax0SDcfi3n1/view?usp=sharing)
+- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1r7G5Vau6Znz-J5APPcAH2CSVaVhx-MIz/view?usp=share_link)
 
-- ⚡ Fun fact **I enjoy listening to music**
+- ⚡ Fun fact **I love competitive gaming 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
